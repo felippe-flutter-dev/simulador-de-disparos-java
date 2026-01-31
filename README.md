@@ -1,4 +1,4 @@
-# simulador-de-disparos-java# 🚀 Java Ballistics Simulator
+# 🚀 Java Ballistics Simulator
 
 Um simulador de disparos em ambiente de terminal desenvolvido para estudo aprofundado de **Orientação a Objetos (POO)**, **Hierarquia de Classes** e **Simulação Probabilística**. O projeto foca na interação entre diferentes componentes (Armas, Munições, Pólvoras) para calcular a eficácia de disparos a longas distâncias.
 
